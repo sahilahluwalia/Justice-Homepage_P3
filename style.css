@@ -63,6 +63,7 @@ nav > div > .list{
   padding: 50px;
   flex:1;
   color: white;
+  gap:25px;
 }
 .hero>.hero-body{
   flex: 1;

@@ -7,7 +7,7 @@ Homepage of Justice Webpage
 - Image resizing and postition
 
 ## Deployed link
-- [DEPLOYED WEBPAGE]()
+- [DEPLOYED WEBPAGE](https://myjustice-homepage.netlify.app/)
 
 ## Screenshot
 ![deployerlink](./justice%20homepage.png)
