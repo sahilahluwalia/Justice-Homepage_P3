@@ -68,10 +68,12 @@ nav > div > .list{
 .hero>.hero-body{
   flex: 1;
   font-size: 26px;
+  margin-left: 10px;
 }
 
 .hero>.hero-heading{
   font-size: 64px;
+  margin-right: 10px;
   flex: 1;
 
 }
